@@ -3,10 +3,10 @@
     "type": "library",
     "keywords": ["task", "runner", "nette"],
     "authors": [{
-        "name": "Dusan Kmet",
+        "name": "Dušan Kmeť",
         "email": "dkmorlok@gmail.com"
     }],
-    "description" : "Run tasks as services",
+    "description" : "Task run helper for Nette",
     "require": {
         "php": ">=5.4.0",
         "nette/di": "^2.3"

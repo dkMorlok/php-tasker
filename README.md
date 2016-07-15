@@ -1,2 +1,4 @@
-# php-tasker
-Task run helper with Nette support
+# nette-tasker
+
+Task run helper for Nette
+
