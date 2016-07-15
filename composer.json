@@ -1,5 +1,5 @@
 {
-    "name": "dkmorlok/tasker",
+    "name": "smartsupp/tasker",
     "type": "library",
     "keywords": ["task", "runner", "nette"],
     "authors": [{
